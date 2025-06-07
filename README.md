@@ -1,4 +1,4 @@
-***🌐 Animated Navigation Menu :--***
+***🌐 Animated Navigation :--***
 
 A modern, stylish animated navigation bar. This interactive nav menu smoothly expands and collapses with beautiful transitions and a responsive toggle button.
 
@@ -18,4 +18,4 @@ A modern, stylish animated navigation bar. This interactive nav menu smoothly ex
 - JavaScript
 
 ***🌐 Live Demo 🔗 :--***
-👉 [**MENU**](https://animated-navigation-xi.vercel.app/) 👈
+👉 [**NAV**](https://animated-navigation-xi.vercel.app/) 👈
